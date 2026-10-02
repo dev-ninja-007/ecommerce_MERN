@@ -2,7 +2,7 @@
 
 > A production-style, scalable e-commerce platform built with a microservices architecture, event-driven communication, a gateway-based backend, and a Webpack Module Federation frontend.
 
----
+---  
 
 ## What This Project Is
 
